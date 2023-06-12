@@ -1,6 +1,6 @@
 # ZenGL-games
 
-__Rus:__  Здесь я буду выкладывать игрушки, которые были сделаны на ZenGL. Возможно это будет исполняемый файл, а возможно исходники игры.  
+__Rus:__  Здесь я буду выкладывать игры, которые были сделаны на ZenGL. Возможно это будет исполняемый файл, а возможно исходники игры.  
 __Eng:__  Here I will publish games that were made on ZenGL. Perhaps it will be an executable file, and perhaps the source code of the game.
 
 
